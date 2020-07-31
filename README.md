@@ -2,9 +2,12 @@
 
 NLP Specialization made by deeplearning.ai (Natural Language Processing Specialization)
 
-This 4-course specialization is launched on June 17. Right now the repository contains files for Course 1 and 2. The assignment files are already completed.
+This 4-course specialization is launched on June 17. Right now the repository contains files for Course 1, 2, and 3. The assignment files are already completed.
 
-Further files of Course 3 and 4 will be uploaded when the courses go live.
+Further files of Course 4 will be uploaded when the courses go live.
+
+## Edits
+Update 1: Course 3 materials added on (07/31/2020). More Week materials will be added by Aug 2.
 
 ## Usage
 
