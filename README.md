@@ -8,6 +8,7 @@ Further files of Course 4 will be uploaded when the courses go live.
 
 ## Edits
 Update 1: Course 3 materials added on (07/31/2020). More Week materials will be added by Aug 2.
+
 Update 2: Course 3 final materials added on (08/02/2020). High size files can be downloaded by Coursera.
 
 ## Usage
