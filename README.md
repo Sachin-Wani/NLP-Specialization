@@ -11,6 +11,8 @@ Update 1: Course 3 materials added on (07/31/2020). More Week materials will be 
 
 Update 2: Course 3 final materials added on (08/02/2020). High size files can be downloaded by Coursera.
 
+Update 3: C3_Wx_Assignment_original.ipynb files with no prefilled code are added in Course 3 by demand from Sun Trancks.
+
 ## Usage
 
 Use the assignment files with prefilled code for reference only.
