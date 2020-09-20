@@ -13,6 +13,8 @@ Update 2: Course 3 final materials added on (08/02/2020). High size files can be
 
 Update 3: C3_Wx_Assignment_original.ipynb files with no prefilled code are added in Course 3 by demand from Sun Trancks.
 
+Update 4: For the launch of Course 4, I have decided only to upload the Assignment ipynb and the prefilled version of it. The additional resources (data/model/utils.py) can be acquired from Coursera.
+
 ## Usage
 
 Use the assignment files with prefilled code for reference only.
