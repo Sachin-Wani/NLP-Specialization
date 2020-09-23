@@ -16,6 +16,8 @@ Update 3: C3_Wx_Assignment_original.ipynb files with no prefilled code are added
 Update 4: For the launch of Course 4, I have decided only to upload the Assignment ipynb and the prefilled version of it. 
           The additional resources (data/model/utils.py) can be acquired from Coursera.
 
+Update 5: Course 4 content added on (09/23/2020) with only the assignment ipynb and prefilled ipynb.
+
 ## Usage
 
 Use the assignment files with prefilled code for reference only.
